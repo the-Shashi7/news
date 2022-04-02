@@ -1,2 +1,2 @@
 # news
-![](output images/Screenshot%20/(41).png)
+![](output%20images/Screenshot%20(41).png)
